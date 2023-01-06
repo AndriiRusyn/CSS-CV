@@ -92,7 +92,7 @@ background: #ffe5e5;
 }
 
 .list {
-padding: 0 20px;
+padding: 0 2px;
 list-style: none;
 }
 
@@ -197,6 +197,8 @@ list-style: none;
 /* } */
 
 
+    
+
 
 /*{
     padding: 0;
@@ -208,4 +210,9 @@ list-style: none;
         text-align: center;
         display: block;
     }
+}
+
+
+.hobbies{
+    padding-left: 2px;
 }
