@@ -216,3 +216,7 @@ list-style: none;
 .hobbies {
     padding-left: 2px;
 }
+
+.description {
+    text-align: justify;
+}
